@@ -13,6 +13,10 @@ Just for fun~
 
 ![](http://dataimage-1252464519.costj.myqcloud.com/Lover.svg)
 
+
+邮件效果：
+![](http://dataimage-1252464519.costj.myqcloud.com/Screenshot%20from%202017-09-24%2013-07-14.png)
+
 几点注意的地方：
 
 一：句子迷封禁IP的速度，超乎想象...
